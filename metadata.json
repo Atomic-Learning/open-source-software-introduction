@@ -1,33 +1,19 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Open Source Software: Introduction",
+    "slug": "open-source-software-introduction",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "software-engineering"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        {
-            "slug": "",
-            "description": ""
-        },
-        {
-            "slug": "",
-            "description": ""
-        }
     ],
     "related": [
         {
-            "slug": "",
-            "description": ""
-        },
-        {
-            "slug": "",
-            "description": ""
+            "slug": "github-introduction",
+            "description": "Learn the basics concept of GitHub, a popular platform for hosting and collaborating on open source software projects."
         }
     ]
 }
